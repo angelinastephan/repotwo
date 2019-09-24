@@ -1,2 +1,2 @@
 # repotwo
-practice software learning
+practice software learning for the icecream shop
